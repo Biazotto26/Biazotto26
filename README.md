@@ -1,4 +1,4 @@
-## 👋 Hey, my name is Gustavo Biazotto.
+## 👋 Hi, i'm Gustavo Biazotto.
 Developer focused on learning and growing
 
 I'm currently learning HTML, JAVASCRIPT and PYTHON
