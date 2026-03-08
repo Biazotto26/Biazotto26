@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hey, I'm Gustavo Biazotto.
+Developer focused on studying and learning new tools.
 
 <!--
 **Biazotto26/Biazotto26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
