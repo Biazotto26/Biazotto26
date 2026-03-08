@@ -1,5 +1,7 @@
-## 👋 Hey, I'm Gustavo Biazotto.
-Developer focused on studying and learning new tools.
+## 👋 Hey, my name is Gustavo Biazotto.
+Developer focused on learning and growing
+
+I'm currently learning HTML, JAVASCRIPT and PYTHON
 
 <!--
 **Biazotto26/Biazotto26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
